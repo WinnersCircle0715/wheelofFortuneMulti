@@ -1,0 +1,71 @@
+<div id="editWrapper">
+    <div id="floatForm">
+    	<input id='toggleShowOption' name="toggleOption" type="button" value="Hide Edit Option" />
+        
+        <div id="editOption">
+			<br/>
+        	<div id="editOptionWrapper">
+            	Select viewport:<br/>
+				<select id="viewport" name="viewport">
+					<option value="true">landscape</option>
+					<option value="false">portrait</option>
+                </select><br/><br/>
+				
+                Select answer:<br/>
+                <select id="answerlist" name="answerlist">
+                </select><br/>
+                <input id="prevAnswer" name="prevAnswer" class="button" type="button" value="Prev Answer">
+                <input id="nextAnswer" name="nextAnswer" class="button" type="button" value="Next Answer">
+                <br/><br/>
+                <div id='topWrapper'>
+                <input id="removeAnswer" name="removeAnswer" type="button" value="Remove Answer">
+                <input id="sortAnswer" name="sortAnswer" type="button" value="Sort Answer">
+                <input id="addAnswer" name="addAnswer" type="button" value="Add Answer">
+                <br/><br/>
+                </div>
+        		<div id="actionWrapper">
+                	 Edit Answer:<br/>
+                    <input id='editAnswer' name="editAnswer" type="button" value="Edit Answer" />
+                    <br/><br/>
+                    Generate and replace XML file:<br/>
+                    <input id='generateXML' name="generateXML" type="button" value="Generate XML" />
+                    <textarea id="outputXML" name="outputXML" cols="" rows="10"></textarea>
+                </div>
+             </div>
+             
+             <div id='sortWrapper' style="display:none;">
+                Answer list:
+               <select id="sortanswerlist" name="sortanswerlist" size="10">
+                </select>
+                <br/><br/>
+                <input id='moveAnswerUp' name="moveAnswerUp" class="button" type="button" value="Move Up" />
+                <input id='moveAnswerDown' name="moveAnswerDown" class="button" type="button" value="Move Down" />
+                <input id='doneSort' name="doneSort" type="button" value="Done" />
+            </div>
+        
+            <div id='answerWrapper' style="display:none;">
+                Edit Answer:<br/>
+				<div class="formRow">
+                    <label class="button">Category:</label>
+                    <input id="answerCategory" name="answerCategory" class="button" type="text" />
+                </div>
+
+                <label class="button">Hint:</label>
+				<input id="answerHint" name="answerHint" type="text" /><br><br>
+
+                <div class="formRowLong extraHeight">
+                	Text:
+                	<textarea id="answerText" name="answerText" cols="" rows=""></textarea>
+                </div>
+				
+				<label class="button">Audio:</label>
+				<input id="answerAudio" name="answerAudio" type="text" />
+                *Audio must have MP3 and OGG file format for cross-browser compatible, insert only OGG format for audio field.
+                <br/><br/>
+                <input id='previewAnswer' name="previewAnswer" type="button" value="Preview Answer" />
+                <input id='cancelAnswer' name="cancelAnswer" class="button" type="button" value="Back" />
+                <input id='doneAnswer' name="doneAnswer" class="button" type="button" value="Done" />
+            </div>
+         </div>
+    </div>
+</div>

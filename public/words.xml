@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+	<item>
+		<category>Fun And Games</category>
+		<answer audio="assets/audio/answers/answer_1.ogg"><![CDATA[DODGE BALL]]></answer>
+		<hint>Activity</hint>
+	</item>
+	<item>
+		<category>Fun And Games</category>
+		<answer audio="assets/audio/answers/answer_2.ogg"><![CDATA[BALLOON RIDE]]></answer>
+		<hint>Activity</hint>
+	</item>
+	<item>
+		<category>Fun And Games</category>
+		<answer audio="assets/audio/answers/answer_3.ogg"><![CDATA[A FRIENDLY SNOWBALL FIGHT]]></answer>
+		<hint>Activity</hint>
+	</item>
+	<item>
+		<category>Fun And Games</category>
+		<answer audio="assets/audio/answers/answer_4.ogg"><![CDATA[RECEIVING STAR TREATMENT AT THE SPA]]></answer>
+		<hint>Activity</hint>
+	</item>
+	<item>
+		<category>Fun And Games</category>
+		<answer audio="assets/audio/answers/answer_5.ogg"><![CDATA[DANCING THE NIGHT AWAY TO A SALSA BEAT]]></answer>
+		<hint>Activity</hint>
+	</item>
+
+	<item>
+		<category>Classic Movie</category>
+		<answer audio="assets/audio/answers/answer_6.ogg"><![CDATA[FUNNY GIRL]]></answer>
+		<hint>Movie name</hint>
+	</item>
+	<item>
+		<category>Classic Movie</category>
+		<answer audio="assets/audio/answers/answer_7.ogg"><![CDATA[THE GRADUATE]]></answer>
+		<hint>Movie name</hint>
+	</item>
+	<item>
+		<category>Classic Movie</category>
+		<answer audio="assets/audio/answers/answer_8.ogg"><![CDATA[SOME COME RUNNING]]></answer>
+		<hint>Movie name</hint>
+	</item>
+	<item>
+		<category>Classic Movie</category>
+		<answer audio="assets/audio/answers/answer_9.ogg"><![CDATA[MR SMITH GOES TO WASHINGTON]]></answer>
+		<hint>Movie name</hint>
+	</item>
+	<item>
+		<category>Classic Movie</category>
+		<answer audio="assets/audio/answers/answer_10.ogg"><![CDATA[GREGORY PECK STARS IN THE BIG COUNTRY]]></answer>
+		<hint>Movie name</hint>
+	</item>
+
+	<item>
+		<category>Before And After</category>
+		<answer audio="assets/audio/answers/answer_11.ogg"><![CDATA[BLACK HOLE-IN-ONE]]></answer>
+		<hint>Before And After</hint>
+	</item>
+	<item>
+		<category>Before And After</category>
+		<answer audio="assets/audio/answers/answer_12.ogg"><![CDATA[NIGHT-LIGHT BEER]]></answer>
+		<hint>Before And After</hint>
+	</item>
+	<item>
+		<category>Before And After</category>
+		<answer audio="assets/audio/answers/answer_13.ogg"><![CDATA[ALL NIGHT LONG DIVISION]]></answer>
+		<hint>Before And After</hint>
+	</item>
+	<item>
+		<category>Before And After</category>
+		<answer audio="assets/audio/answers/answer_14.ogg"><![CDATA[KEEP BOTH FEET ON THE GROUND BEEF]]></answer>
+		<hint>Before And After</hint>
+	</item>
+	<item>
+		<category>Before And After</category>
+		<answer audio="assets/audio/answers/answer_15.ogg"><![CDATA[LET SLEEPING DOGS LIE LIKE A RUG]]></answer>
+		<hint>Before And After</hint>
+	</item>
+
+	<item>
+		<category>Occupation</category>
+		<answer audio="assets/audio/answers/answer_16.ogg"><![CDATA[GENERAL CONTRACTOR]]></answer>
+		<hint>Occupation</hint>
+	</item>
+	<item>
+		<category>Occupation</category>
+		<answer audio="assets/audio/answers/answer_17.ogg"><![CDATA[MUSICAL DIRECTOR]]></answer>
+		<hint>Occupation</hint>
+	</item>
+	<item>
+		<category>Occupation</category>
+		<answer audio="assets/audio/answers/answer_18.ogg"><![CDATA[SHOPPING MALL SANTA]]></answer>
+		<hint>Occupation</hint>
+	</item>
+	<item>
+		<category>Occupation</category>
+		<answer audio="assets/audio/answers/answer_19.ogg"><![CDATA[EDITOR OF A FITNESS MAGAZINE]]></answer>
+		<hint>Occupation</hint>
+	</item>
+	<item>
+		<category>Occupation</category>
+		<answer audio="assets/audio/answers/answer_20.ogg"><![CDATA[GENERAL MANAGER OF A PRO SPORTS TEAM]]></answer>
+		<hint>Occupation</hint>
+	</item>
+
+	<item>
+		<category>Thing</category>
+		<answer audio="assets/audio/answers/answer_21.ogg"><![CDATA[ALMOND MILK]]></answer>
+		<hint>Thing</hint>
+	</item>
+	<item>
+		<category>Thing</category>
+		<answer audio="assets/audio/answers/answer_22.ogg"><![CDATA[SUGARLESS GUM]]></answer>
+		<hint>Thing</hint>
+	</item>
+	<item>
+		<category>Thing</category>
+		<answer audio="assets/audio/answers/answer_23.ogg"><![CDATA[LUNCHBOX & THERMOS]]></answer>
+		<hint>Thing</hint>
+	</item>
+	<item>
+		<category>Thing</category>
+		<answer audio="assets/audio/answers/answer_24.ogg"><![CDATA[PILOT EPISODE OF A TELEVISION SERIES]]></answer>
+		<hint>Thing</hint>
+	</item>
+	<item>
+		<category>Thing</category>
+		<answer audio="assets/audio/answers/answer_25.ogg"><![CDATA[WILD RICE GROWING IN A SHALLOW LAKE]]></answer>
+		<hint>Thing</hint>
+	</item>
+</words>
