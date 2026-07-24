@@ -17,7 +17,8 @@ function initPreload(){
 	});
 	resizeGameFunc();
 	
-	loader = new createjs.LoadQueue(false);
+	loader = new createjs.LoadQueue(true);
+	loader.setMaxConnections(10);
 	manifest=[
 			{src:'assets/background.png', id:'background'},
 			{src:'assets/background_p.png', id:'backgroundP'},

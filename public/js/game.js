@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////
-// GAME v2.2
+// GAME v2.3
 ////////////////////////////////////////////////////////////
 
 /*!
@@ -370,8 +370,7 @@ const lightsEffects = [
 				]
 	},
 ];
-const build_id = 0x946CB;
-const cerify_key = 'AbnZXhYJAH67PvglfAx21sBkRAg';
+
 
 /*!
  * 
@@ -992,7 +991,7 @@ function filterCategoryAnswer(){
  * 
  */
 function startGame(){
-	gameData.paused = setGameLaunch();
+	gameData.paused = false;
 	gameData.stage = "";
 	gameData.won = false;
 	gameData.sequenceNum = 0;
@@ -2952,7 +2951,8 @@ function millisecondsToTimeGame(milli) {
  */
 var imageLoader, fileFest;
 function loadAnswerAssets(){
-	imageLoader = new createjs.LoadQueue(false);
+	imageLoader = new createjs.LoadQueue(true);
+	imageLoader.setMaxConnections(10);
 	createjs.Sound.alternateExtensions = ["mp3"];
 	imageLoader.installPlugin(createjs.Sound);
 	
