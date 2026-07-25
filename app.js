@@ -155,6 +155,10 @@ let roomSettings = {
 		{
 			game:'galacticjunior',
 			total:4
+		},
+		{
+			game:'twintiles',
+			total:2
 		}
 	]
 }
